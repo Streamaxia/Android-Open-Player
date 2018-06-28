@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="StreamaxiaOpenPlayerDemo:streamaxialib-release">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/8d41c6672477fbb38b8b3007c55332991b4bd2aa/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/8d41c6672477fbb38b8b3007c55332991b4bd2aa/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8d41c6672477fbb38b8b3007c55332991b4bd2aa/output/jars/libs/streamaxialib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

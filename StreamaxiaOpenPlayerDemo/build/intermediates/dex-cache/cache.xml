@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/razvanchelemen/.android/build-cache/8d41c6672477fbb38b8b3007c55332991b4bd2aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8343ed622a757d2d166e9611a772d05a0222a83a">
+        <dex dex="/Users/razvanchelemen/Clients_work/Android-Open-Player-Github/StreamaxiaOpenPlayerDemo/app/build/intermediates/pre-dexed/debug/classes_ea0eafdcf78f58febd1a5e09109dfbd0c77abbc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/razvanchelemen/.android/build-cache/8d41c6672477fbb38b8b3007c55332991b4bd2aa/output/jars/libs/streamaxialib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0ff6794999253dfc252f97a145988af78254e13">
+        <dex dex="/Users/razvanchelemen/Clients_work/Android-Open-Player-Github/StreamaxiaOpenPlayerDemo/app/build/intermediates/pre-dexed/debug/streamaxialib_861ca394ec685f200285e50b84a2a28f4819b67c.jar" />
+    </item>
+
+</items>
