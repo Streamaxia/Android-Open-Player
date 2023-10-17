@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/StreamaxiaOpenPlayerDemo.iml" filepath="$PROJECT_DIR$/StreamaxiaOpenPlayerDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/opensdk_player.iml" filepath="$PROJECT_DIR$/opensdk_player.iml" />
-      <module fileurl="file://$PROJECT_DIR$/streamaxialib-release/streamaxialib-release.iml" filepath="$PROJECT_DIR$/streamaxialib-release/streamaxialib-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StreamaxiaOpenPlayerDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StreamaxiaOpenPlayerDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StreamaxiaOpenPlayerDemo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StreamaxiaOpenPlayerDemo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StreamaxiaOpenPlayerDemo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StreamaxiaOpenPlayerDemo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StreamaxiaOpenPlayerDemo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StreamaxiaOpenPlayerDemo.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/streamaxialib-release/StreamaxiaOpenPlayerDemo.streamaxialib-release.iml" filepath="$PROJECT_DIR$/.idea/modules/streamaxialib-release/StreamaxiaOpenPlayerDemo.streamaxialib-release.iml" />
     </modules>
   </component>
 </project>

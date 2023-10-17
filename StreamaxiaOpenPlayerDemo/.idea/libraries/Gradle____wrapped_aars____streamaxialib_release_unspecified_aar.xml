@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: __wrapped_aars__::streamaxialib-release:unspecified@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/streamaxialib-release/build/.transforms/77fc5f6c2d13863188301a3c1d780551/transformed/streamaxialib-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/streamaxialib-release/build/.transforms/77fc5f6c2d13863188301a3c1d780551/transformed/streamaxialib-release/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/streamaxialib-release/build/.transforms/77fc5f6c2d13863188301a3c1d780551/transformed/streamaxialib-release/jars/libs/streamaxialib.jar!/" />
+      <root url="file://$PROJECT_DIR$/streamaxialib-release/build/.transforms/77fc5f6c2d13863188301a3c1d780551/transformed/streamaxialib-release/res" />
+      <root url="file://$PROJECT_DIR$/streamaxialib-release/build/.transforms/77fc5f6c2d13863188301a3c1d780551/transformed/streamaxialib-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
